@@ -1,11 +1,1 @@
-[Token  ,  Lexeme]
-[KEYWORD, while]
-[SEPARATOR, (]
-[IDENTIFIER, t]
-[OPERATOR, <]
-[IDENTIFIER, upper]
-[SEPARATOR, )]
-[IDENTIFIER, s]
-[OPERATOR, =]
-[REAL, 22.00]
-[SEPARATOR, ;]
+
