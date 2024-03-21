@@ -27,5 +27,5 @@ When using the code, write any input in the input_scode.txt and click on main.cp
 # Dependencies:
 C++ Standard Library
 # Acknowledgments
-This lexer implementation was a school project for CSUF in Professor Modi's CPSC 323 Compilers & Languages
+This lexer implementation was a school project for CSUF in Professor Modi's CPSC 323 Compilers & Languages.
 Special thanks to [Hunter Tran, Matthew Tran].
